@@ -28,13 +28,13 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dgraph-io/badger/options"
+	"github.com/Ready-Stock/badger/options"
 
 	"golang.org/x/net/trace"
 
-	"github.com/dgraph-io/badger/skl"
-	"github.com/dgraph-io/badger/table"
-	"github.com/dgraph-io/badger/y"
+	"github.com/Ready-Stock/badger/skl"
+	"github.com/Ready-Stock/badger/table"
+	"github.com/Ready-Stock/badger/y"
 	"github.com/pkg/errors"
 )
 

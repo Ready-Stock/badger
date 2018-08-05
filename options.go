@@ -17,7 +17,7 @@
 package badger
 
 import (
-	"github.com/dgraph-io/badger/options"
+	"github.com/Ready-Stock/badger/options"
 )
 
 // NOTE: Keep the comments in the following to 75 chars width, so they

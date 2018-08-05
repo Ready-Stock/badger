@@ -25,9 +25,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dgraph-io/badger"
-	"github.com/dgraph-io/badger/table"
-	"github.com/dgraph-io/badger/y"
+	"github.com/Ready-Stock/badger"
+	"github.com/Ready-Stock/badger/table"
+	"github.com/Ready-Stock/badger/y"
 	humanize "github.com/dustin/go-humanize"
 	"github.com/spf13/cobra"
 )

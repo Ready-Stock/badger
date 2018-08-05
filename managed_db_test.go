@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dgraph-io/badger/y"
+	"github.com/Ready-Stock/badger/y"
 	"github.com/stretchr/testify/require"
 )
 
